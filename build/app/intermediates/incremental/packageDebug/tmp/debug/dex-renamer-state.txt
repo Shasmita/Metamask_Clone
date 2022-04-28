@@ -1,0 +1,4 @@
+#Thu Mar 24 17:32:39 IST 2022
+base.0=C\:\\Users\\shasm\\Downloads\\fake_metamask\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
